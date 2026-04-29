@@ -1,0 +1,47 @@
+# Number Guessing Game (Java)
+
+A simple console-based Number Guessing Game built using Java.
+
+## Features
+- Random number generation
+- Limited attempts
+- Input validation
+- Too high / too low hints
+- Beginner-friendly project
+
+## Technologies Used
+- Java
+- OOP Basics
+- Random Class
+- Exception Handling
+
+## How to Run
+
+Compile:
+```bash
+java src/NumberGuessingGame.java
+```
+
+Run:
+```bash
+java -cp src Number Guessing Game
+```
+
+## Project Structure
+
+```text
+Number Guessing Game/
+│
+├── src /
+│   └── NumberGuessingGame.java
+│
+├── README.md
+└── .gitignore
+```
+
+## Future Improvements
+- GUI using Java Swing
+- Score tracking
+- Difficulty levels
+- Timer mode
+- Multiplayer mode
